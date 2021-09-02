@@ -19,7 +19,7 @@ This section was rather smooth. I've opted to install IntelliJ as I have read th
 ~~The issue outlined in heading 3 was not solved. This may require further troubleshooting.~~
 
  
-
+URL to the project: https://thawing-harbor-30168.herokuapp.com/
    
   
   
