@@ -13,7 +13,7 @@ support, but it was resolved after asking my classmates.
 # 3.How the Database Tables were Inspected and What Tables were Created
 
 The experiment 1 database was viewed without many problems, everything appeared as it was supposed to. The problem came in the latter part of the assignment, even after having
-seemingly wrote the correct code logically I was not able to get any sort of output to try and see how thbe database works.
+seemingly wrote the correct code logically I was not able to get any sort of output to try and see how the database works.
 
 <pre><code>Exception in thread "main" java.lang.IllegalArgumentException: Object: Pincode(id=null, pincodeNum=null, count=2) is not a known Entity type.
 	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.registerNewObjectForPersist(UnitOfWorkImpl.java:4328)
@@ -22,4 +22,4 @@ seemingly wrote the correct code logically I was not able to get any sort of out
 
 # 4.Unsolved Issues
 
-As mentioned by heading #3, I'm still yet to get the tables working as I'm not sure what the cause of the error is.
+As mentioned in heading #3, I'm still yet to get the tables working as I'm not sure what the cause of the error is.
